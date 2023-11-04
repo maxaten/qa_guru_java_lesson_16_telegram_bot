@@ -4,7 +4,7 @@
     "project": "qa.guru",
     "environment": "Preprod",
     "comment": "@ereneger123",
-    "reportLink": "",
+    "reportLink": "google.com",
     "language": "en",
     "allureFolder": "build/reports/allure-report/allureReport",
     "enableChart": true
